@@ -52,5 +52,29 @@ This project demonstrates how data analysis can help businesses evaluate sales p
 ## Author
 Sahil Dubole
 
+## Key Findings
+
+- **Total Sales:** [2,297,200.86]
+- **Total Profit:** [286,397.02]
+- **Best Category by Sales:** [37,873]
+- **Most Profitable Category:** [Technology(145,454.95)]
+- **Best Region by Sales:** [West (725,457.82)]
+- **Loss-making Sub-Categories:
+                             Tables	206965.5320	-17725.4811
+                             Bookcases	114879.9963	-3472.5560
+                             Supplies	46673.5380	-1189.0995
+  Findings exported to final_project_findings.csv
+
+
+
+
+## Business Recommendations
+
+- Review pricing and discounts for loss-making sub-categories.
+- Study top-performing product categories.
+- Compare regional sales and profitability.
+- Analyze historical sales trends to improve inventory planning and targeted marketing.
+
+
 ## Note
 Actual results depend on the dataset analyzed. Replace this section with verified findings from your reports.
